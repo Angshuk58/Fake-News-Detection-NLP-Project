@@ -33,3 +33,6 @@ The Fake News Detection project is a machine learning-based application designed
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
