@@ -28,7 +28,7 @@ The Fake News Detection project is a machine learning-based application designed
 
 ## Live App
 You can try the **Fake News Detection** app live by clicking the link below:
-[Try the Fake News Detection App] {https://angshuk58-fake-news-detection-nlp-project-app-z7gblt.streamlit.app}
+[Try the Fake News Detection App] (https://angshuk58-fake-news-detection-nlp-project-app-z7gblt.streamlit.app)
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
