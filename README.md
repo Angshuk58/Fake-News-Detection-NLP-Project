@@ -7,11 +7,8 @@ The Fake News Detection project is a machine learning-based application designed
 
 ## Features
 1. Text Preprocessing: Cleans and preprocesses the text data to remove noise and prepare it for analysis.
-
 2. TF-IDF Vectorization: Converts text data into numerical features using Term Frequency-Inverse Document Frequency (TF-IDF) vectorization.
-
 3. Machine Learning Model: Utilizes Logistic Regression to classify news articles as real or fake.
-
 4. Streamlit Web App: Provides an interactive web interface for users to input news text and get real-time predictions.
 
 ## Installation
@@ -30,6 +27,10 @@ The Fake News Detection project is a machine learning-based application designed
 3. app.py: Streamlit application script.
 4. requirements.txt: List of required packages for the project.
 5. fake_news_detection.ipynb: Jupyter notebook containing the code for training the model and preprocessing the data.
+
+## ## Live App
+You can try the **Fake News Detection** app live by clicking the link below:
+[Try the Fake News Detection App] {https://angshuk58-fake-news-detection-nlp-project-app-z7gblt.streamlit.app}
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
