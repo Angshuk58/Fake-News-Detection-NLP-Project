@@ -1,7 +1,5 @@
 # Fake-News-Detection-NLP-Project
 
-# Fake-News-Detection
-
 ## Overview
 The Fake News Detection project is a machine learning-based application designed to classify news articles as real or fake. Leveraging Natural Language Processing (NLP) techniques, this project aims to combat the spread of misinformation by analyzing the text content of news articles and determining their credibility.
 
