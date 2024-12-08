@@ -28,7 +28,7 @@ The Fake News Detection project is a machine learning-based application designed
 4. requirements.txt: List of required packages for the project.
 5. fake_news_detection.ipynb: Jupyter notebook containing the code for training the model and preprocessing the data.
 
-## ## Live App
+## Live App
 You can try the **Fake News Detection** app live by clicking the link below:
 [Try the Fake News Detection App] {https://angshuk58-fake-news-detection-nlp-project-app-z7gblt.streamlit.app}
 
